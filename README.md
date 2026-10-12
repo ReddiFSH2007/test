@@ -1,5 +1,9 @@
 # Nearest-Neighbor Points (Exercise 1)
 
+## Environment
+- Language: C++
+- Compiler: GCC 11+ or Clang 13+ (supports C++17)
+
 ## Build Instructions
 Compile the code with `-O3` optimization:
 ```bash
